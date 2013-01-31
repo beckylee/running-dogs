@@ -1,0 +1,34 @@
+body {
+	background-image: url('assets/omfgdogs.gif');
+	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+	font-size: 30px;
+}
+
+a:link {color:cyan;}
+a:visited {color:cyan;}
+a:hover {color:white;}
+a:active {color:white;}
+
+
+.link{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	background: green;
+	
+}
+
+audio{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.rickroll{
+	text-align: center;
+	color: white;
+	font-style: bold;
+	background: blue;
+	margin-left: 25%;
+	margin-right: 25%;
+}
